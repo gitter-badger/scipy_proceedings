@@ -1,5 +1,7 @@
 # SciPy Proceedings
 
+[![Join the chat at https://gitter.im/ioam/scipy_proceedings](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ioam/scipy_proceedings?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Paper Format
 
 Papers are formatted using reStructuredText and the compiled version should be
